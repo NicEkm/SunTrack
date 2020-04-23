@@ -7,7 +7,7 @@ SunTrack:
 
 * Is an application that gives sunrise and sunset times to given city.
 * Takes user input as 'City', and uses rest API to transfer it into 'lat' and 'lon', and then uses 'lat' and 'lon' to get wanted times.
-* Uses 1 open rest API and one with developer API key needed to get information. (Api key can be redeem at mapquestapi.com.)
+* Uses 1 open rest API and one with developer API key needed to get information. (Api key can be redeemed at mapquestapi.com.)
 * Is good example how to use URLLIB.PARSE and REQUESTS libraries to get json data.
 * Is good example how to use PYTZ, TZLOCAL and DATETIME libraries to get user local time.
 
